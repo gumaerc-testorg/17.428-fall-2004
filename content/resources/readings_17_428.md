@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: aeef1124-d190-5bcd-3a95-1c8673c6e86a
 resourcetype: Document
 title: readings_17_428.pdf
 uid: f02de608-1621-eea4-57a1-b5e9261027cf

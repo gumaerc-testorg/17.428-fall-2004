@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ab0c97c-f2d4-b8bc-7138-2fafa4435dcd
 resourcetype: Document
 title: 17_428_assn_arch.pdf
 uid: 52d19794-a42f-f598-1524-e806b5150ac8
