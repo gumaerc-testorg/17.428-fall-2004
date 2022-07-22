@@ -5,6 +5,7 @@ file: /courses/17-428-american-foreign-policy-theory-and-method-fall-2004/9f50ef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 17_428assn_ppr1.pdf
 uid: 9f50ef20-6743-3d50-bca2-68b9c058f95c
 ---
 Instructions and guidelines for a research paper.
-
