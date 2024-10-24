@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-428-american-foreign-policy-theory-and-method-fall-2004/e08e8968a04b29168e03ebe501a4ada0_chp_amrcnfrgnpol.jpg
+file: /ol-ocw-studio-app/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/e08e8968a04b29168e03ebe501a4ada0_chp_amrcnfrgnpol.jpg
 file_size: 47124
 file_type: image/jpeg
 image_metadata:
