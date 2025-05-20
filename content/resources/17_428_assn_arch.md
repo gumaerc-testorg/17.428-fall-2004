@@ -5,7 +5,7 @@ description: This assignment is to visit two of three specified sites and find o
   and interpretation of each of them. These sites are The John F. Kennedy Presidential
   Library at Columbia Point, The Lamont Library at Harvard University, and The Dewey
   Library at MIT.
-file: /ol-ocw-studio-app/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/52d19794a42ff5981524e806b5150ac8_17_428_assn_arch.pdf
+file: /courses/17-428-american-foreign-policy-theory-and-method-fall-2004/52d19794a42ff5981524e806b5150ac8_17_428_assn_arch.pdf
 file_size: 96421
 file_type: application/pdf
 learning_resource_types:
