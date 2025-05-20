@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for preparing the assigned memos.
-file: /ol-ocw-studio-app/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/5af7ab2bcbc84b5e35f207db3f064d66_17_428_assn_the.pdf
+file: /courses/17-428-american-foreign-policy-theory-and-method-fall-2004/5af7ab2bcbc84b5e35f207db3f064d66_17_428_assn_the.pdf
 file_size: 40484
 file_type: application/pdf
 learning_resource_types:
