@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for a research paper.
-file: /courses/17-428-american-foreign-policy-theory-and-method-fall-2004/9f50ef2067433d50bca268b9c058f95c_17_428assn_ppr1.pdf
+file: /ol-ocw-studio-app/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/9f50ef2067433d50bca268b9c058f95c_17_428assn_ppr1.pdf
 file_size: 66649
 file_type: application/pdf
 learning_resource_types:
