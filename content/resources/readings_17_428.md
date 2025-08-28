@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recommended readings
-file: /courses/17-428-american-foreign-policy-theory-and-method-fall-2004/f02de6081621eea457a1b5e9261027cf_readings_17_428.pdf
+file: /ol-ocw-studio-app/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/f02de6081621eea457a1b5e9261027cf_readings_17_428.pdf
 file_size: 234597
 file_type: application/pdf
 learning_resource_types:
