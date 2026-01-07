@@ -196,7 +196,7 @@ The Bush Administration has embraced a general doctrine of preventive war agains
 Lieber, Keir A., and Robert J. Lieber. "The Bush National Security Strategy." *U.S. Foreign Policy Agenda, An Electronic Journal of the U.S. Department of State* 7, no. 4 (December 2002).         
 A friendly summary and assessment of the 2002 U.S. National Security Strategy (NSS), the document that frames the main elements of the strategy selected by the Bush II Administration, including its general doctrine of preventive war (see Sanger, "Bush to Formalize." directly above).
 
-For more discussion of the 2002 U.S. strategy statement see the "{{% resource_link "6bb8aeb1-ab23-413d-9452-b0b9d606a7c9" "Defense Strategy Review Page" %}}" of the Project on Defense Alternatives.
+For more discussion of the 2002 U.S. strategy statement see the "[Defense Strategy Review Page](http://www.comw.org/qdr/)" of the Project on Defense Alternatives.
 
 (H) Ikenberry, G. John. "America's Imperial Ambition." In *AFP,* by Ikenberry. pp. 564-575.         
 Reprinted from Foreign Affairs 81, no. 5 (September/October 2002).         
@@ -262,7 +262,7 @@ The advance of science has a fearsome by product: we are discovering ever more p
 
 We will return to this subject in the last class period in December.
 
-For more on controlling the longterm bioweapons danger see: {{% resource_link "499004c3-5857-4806-ba39-403ef113ca47" "The Controlling Dangerous Pathogens Project" %}}.
+For more on controlling the longterm bioweapons danger see: [The Controlling Dangerous Pathogens Project](https://www.researchgate.net/publication/277060332_Controlling_Dangerous_Pathogens_Project_Regional_Workshop_on_Dual-Use_Research_Meeting_Report).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -369,11 +369,11 @@ A famous and controversial audit of the contribution of work using rational choi
 
 Also of interest are criticisms of this piece published in the Fall 1999 issue of *International Security*.
 
-Please find online a {{% resource_link "6a7c8336-4597-4371-97b0-4a120f947d54" "syllabus" %}} on qualitative methods from the Arizona State University Qualitative Methods Institute (January 2002) and other syllabi on the case method from qualitative methods taught around the country. Check them out to see how the qualitative methods are taught around the country.
+Please find online a [syllabus](http://www.asu.edu/clas/polisci/cqrm/syllabi.html) on qualitative methods from the Arizona State University Qualitative Methods Institute (January 2002) and other syllabi on the case method from qualitative methods taught around the country. Check them out to see how the qualitative methods are taught around the country.
 
 In the past the "methods" field in political science was often assumed to consist solely of large-n (statistical) methods. While statistics was a required course at most schools, case study methodology often wasn't even taught. This is changing, as these syllabi illustrate.
 
-For more on {{% resource_link "872f66a4-8276-43ab-9138-127dc1dfdc09" "Qualitative Methods" %}}.
+For more on [Qualitative Methods](http://www.asu.edu/clas/polisci/cqrm/).
 
 The Arizona State University Qualitative Methods Institute runs a valuable winter student seminar (all expenses paid). Inquire about it. Maybe you can go.
 
@@ -450,7 +450,7 @@ Adventures in The Archives
 *Weiner, Tim. "Keeping the Secrets that Everyone Knows." New York Times*, October 30, 1994.         
 The JFK library is hiding the record from us.
 
-As preparation for the Adventure please also consult Prof. Marc Trachtenberg's website on {{% resource_link "535391f4-e1d4-4c55-8fd7-a72089720b8d" "history methods" %}}. There look at two memos he wrote on interpreting declassified documents and on how to do Cold War history. They are listed on his home page as "A discussion of declassification analysis," and "A practical guide to doing Cold War history."
+As preparation for the Adventure please also consult Prof. Marc Trachtenberg's website on [history methods](http://www.sscnet.ucla.edu/polisci/faculty/trachtenberg/). There look at two memos he wrote on interpreting declassified documents and on how to do Cold War history. They are listed on his home page as "A discussion of declassification analysis," and "A practical guide to doing Cold War history."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10

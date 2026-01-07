@@ -48,9 +48,9 @@ This text also has useful bibliographical notes at the ends of chapters.
 
 ## Web Sites to Consult
 
-A research guide to Internet resources on American foreign policy. See other web sites referenced there. ({{% resource_link "28c059fa-fcf1-425a-8f79-53799e2482e5" "PDF" %}})
+A research guide to Internet resources on American foreign policy. See other web sites referenced there. ([PDF](http://www.biu.ac.il/lib/NewBooks/newbookl_June10.pdf))
 
-This is the {{% resource_link "9ef7f1e2-7ba0-4413-b1d6-8905ca0b2d36" "National Security Archive web site" %}}, an excellent source of primary documents about U.S. foreign and security policy.
+This is the [National Security Archive web site](http://www2.gwu.edu/~nsarchiv/), an excellent source of primary documents about U.S. foreign and security policy.
 
 ## Textbooks and Surveys
 
